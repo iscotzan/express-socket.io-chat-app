@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACF,UAAU,EAAE,2DAA2D;EACvE,eAAe,EAAE,KAAK;;AAGxB,eAAe;EACb,UAAU,EAAE,qBAAkB;EAC9B,MAAM,EAAE,IAAI;;AAGd,6BAA6B;EAC3B,KAAK,EAAE,KAAK;;AAGd,WAAW;EACT,KAAK,EAAE,GAAG;EACV,UAAU,EAAC,IAAI;;AAEjB,cAAc;EACZ,UAAU,EAAE,IAAI",
+"sources": ["resetPassPage.scss"],
+"names": [],
+"file": "resetPassPage.css"
+}

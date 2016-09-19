@@ -1,0 +1,21 @@
+body{
+  background: url("../img/water-1031502_1920.jpg") center fixed no-repeat;
+  background-size: cover;
+}
+
+#reset_pass_nav{
+  background: rgba(0,0,150,0.15);
+  border: none;
+}
+
+#reset_pass_nav .navbar-brand{
+  color: white;
+}
+
+#setNewPass{
+  width: 33%;
+  margin-top:30px;
+}
+.newPassInputs{
+  margin-top: 30px;
+}

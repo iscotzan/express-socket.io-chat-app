@@ -1,0 +1,76 @@
+body{
+  background: url("../img/sea-1031470_1920.jpg") center fixed;
+  //background: url("../img/water-1031502_1920.jpg") center fixed;
+  background-size: cover;
+}
+
+.message{
+  overflow: hidden;
+  padding: 0 20px;
+  color: greenyellow;
+  background: rgba(0,0,0,0.7);
+  float: left;
+  margin-left: 0;
+  width: 914px;
+  -webkit-animation-name: flip;
+  -webkit-animation-duration: 500ms;
+  border-bottom: 1px solid rgba(150, 150, 150, .1);
+
+}
+.self{
+  background: rgba(20,20,20,0.55);
+  color: greenyellow;
+  text-align: right;
+}
+
+.infos{
+  color: antiquewhite;
+}
+#messageInput{
+  height: 28px;
+}
+
+#chatNavbar{
+  color: #999999;
+  background: rgba(50, 50, 50, 0.4);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#chatNavbar .navbar-brand{
+  color: whitesmoke;
+}
+
+#nbUsersDiv p{
+  color: antiquewhite;
+}
+
+#logoutNavLink{
+  color: lightgoldenrodyellow;
+}
+#logoutNavLink:hover{
+  color: yellow;
+}
+
+#submitChatDropDownMenu{
+  left: -81.2px;
+}
+
+.chatThumb{
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.chatThumbEnlarged{
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 2%;
+  z-index: 9999;
+  margin-bottom: 20px;
+  border: 2px solid greenyellow;
+}
+.chatImage{
+
+}
