@@ -2,3 +2,4 @@ node_modules/engine.io-client/node_modules
 TODOS
 .tmp
 node_modules
+.idea
