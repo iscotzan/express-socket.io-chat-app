@@ -12,4 +12,4 @@ Install by:
 2. Via the command console and in the above folder enter "npm install". 
 3. Create a new database in phpMyAdmin and import the sql file included.
 4. In the "modules" folder - Change constants.js and db.js to fit your credentials.
-5. The chat's now ready to run by entering "nodemon main.js" in the console.
+5. The chat's now ready to run by entering "node main.js" in the console.
